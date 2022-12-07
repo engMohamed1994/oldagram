@@ -82,6 +82,10 @@ header {
     margin-left: 1px;
 }
 
+.icons:hover {
+    opacity: 0.5;
+}
+
 .likes {
     font-family: Source Sans Pro;
     font-size: 13px;
